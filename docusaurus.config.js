@@ -85,7 +85,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Portfolio',
                 to: '/docs/intro',
               },
             ],
@@ -108,7 +108,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Porfolio',
+                label: 'Portfolio',
                 to: '/docs/intro',
               }, {
                 label: 'Blog',
