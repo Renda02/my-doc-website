@@ -69,7 +69,7 @@ const config = {
             position: 'left',
             label: 'Portfolio',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Post', position: 'left'},
           {
             href: 'https://github.com/Renda02',
             label: 'GitHub',
@@ -111,7 +111,7 @@ const config = {
                 label: 'Portfolio',
                 to: '/docs/intro',
               }, {
-                label: 'Blog',
+                label: 'Post',
                 to: '/blog',
               },
               {
