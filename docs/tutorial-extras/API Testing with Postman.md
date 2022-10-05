@@ -23,7 +23,7 @@ The authentication URL is as follows:
 
 **_NOTE:_**  The API key needs to go in place of [YOUR-API-KEY]. Do not add any brackets around the API key.
 
-### API Testing with Postman.
+## API Testing with Postman.
 
 To test your authentication and data endpoints in Postman, follow these steps:
 1. Sign in to  Postman Homepage, and click Create New
@@ -33,7 +33,7 @@ To test your authentication and data endpoints in Postman, follow these steps:
 ![Screenshot 2022-06-29 at 12 29 11](https://user-images.githubusercontent.com/64105005/180061146-aa38cca8-debb-4d93-b625-1a5401164539.png)
 Figure one: An example of a response on the browser
 
-### Responses status code 
+## Responses status code 
 
 A Hypertext Transfer Protocol, HTTP, is a client-server protocol where server response to a client request. 
 

@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Rendani Luvhengo',
+  tagline: 'A technical writer with an extensive background in front-end development and Quality Management, passionate about writing, technology, and creating documentation that solves complex user problems.  ',
   url: 'https://github.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Renda02',
         },
         blog: {
           showReadingTime: true,
@@ -75,7 +75,16 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
-          
+          {
+            href: 'https://www.linkedin.com/in/rendani-luvhengo/',
+            label: 'LinkedIn',
+            position: 'right',
+          },
+          {
+            href: 'mailto:rluvhengo@gmail.com',
+            label: 'Contact Me',
+            position: 'right',
+          },
         ],
       },
       footer: {

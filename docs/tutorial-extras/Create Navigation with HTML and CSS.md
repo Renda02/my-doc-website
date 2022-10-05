@@ -6,7 +6,7 @@ Hypertext Markup Language (HTML) is used to develop and edit web pages. The mark
 
 CSS stands for  Cascading Style Sheet, a language used for describing the presentation of documents written in HTML or XML. CSS styles elements on your web pages, such as colors, fonts, and headings.
 
-### What you'll need
+## What you'll need
 
  This tutorial requires familiarity with the following:
 
@@ -15,7 +15,7 @@ CSS stands for  Cascading Style Sheet, a language used for describing the presen
 - CSS Flexbox.
 - Command-line -creating a directory and a file.
 
-### Project Set up
+## Project Set up
 
 1. Follow this [documentation](https://code.visualstudio.com/docs/setup/setup-overview) for installing the Visual Studio Code. 
 
@@ -25,7 +25,7 @@ CSS stands for  Cascading Style Sheet, a language used for describing the presen
   - Create HTML and CSS files:  `touch index.html style.css`
   - Open text editor up with:  `code .`
  
- ### Code Setup
+ ## Code Setup
  
 - Open index.html to add boilerplate HTML code and CSS links.
 - To create navigation, add a div container around the navigation. Additionally, add a nav element that wraps text tags and nested lists. 
