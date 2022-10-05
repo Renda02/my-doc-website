@@ -49,6 +49,7 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+      
       }),
     ],
   ],
@@ -69,7 +70,7 @@ const config = {
             position: 'left',
             label: 'Portfolio',
           },
-          {to: '/blog', label: 'Post', position: 'left'},
+          // {to: '/blog', label: 'Post', position: 'left'},
           {
             href: 'https://github.com/Renda02',
             label: 'GitHub',
@@ -95,7 +96,7 @@ const config = {
             items: [
               {
                 label: 'Portfolio',
-                to: '/docs/intro',
+                to: '/docs/',
               },
             ],
           },
@@ -118,11 +119,11 @@ const config = {
             items: [
               {
                 label: 'Portfolio',
-                to: '/docs/intro',
-              }, {
-                label: 'Post',
-                to: '/blog',
-              },
+                to: '/docs/',
+              },// {
+                //label: 'Post',
+               // to: '/blog',
+             // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/Renda02',

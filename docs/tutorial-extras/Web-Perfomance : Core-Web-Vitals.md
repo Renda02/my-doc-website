@@ -61,7 +61,7 @@ CLS possible solutions:
 - Mobile Friendly
 - Safe browsing
 - HTTP
--No intrusive interstitials
+- No intrusive interstitials
 
 ### Takeaway
 A website audit can provide information about the current state of a website, evaluate it, and help it become more effective.
