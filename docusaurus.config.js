@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: `Hello, I'm Rendani Luvhengo`,
-  tagline: `I'm Technical Writer passionate about providing user-centric solutions. I explore products and collaborate with SMEs' to deliver documentation that solves problems for users and companies.`,
+  tagline: `I am a Technical Writer that acts as a bridge between tech and users. I explore products and collaborate with SMEs' to create documentation that solves problems for users and companies.`,
   url: 'https://github.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -61,7 +61,7 @@ const config = {
         title: 'Rendani',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logs.svg',
         },
         items: [
           {
