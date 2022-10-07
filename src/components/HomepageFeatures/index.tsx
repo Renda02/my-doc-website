@@ -9,6 +9,15 @@ type FeatureItem = {
 };
 
 const FeatureList: FeatureItem[] = [
+   {
+    title: 'User-centric',
+    Svg: require('@site/static/img/select.svg').default,
+    description: (
+      <>
+        I am passionate about providing user-centric documentation through understanding users' needs.
+      </>
+    ),
+  },
   {
     title: 'Collaborative',
     Svg: require('@site/static/img/team.svg').default,
@@ -19,23 +28,15 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Highly Adaptive',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Creative Problem-Solver ',
+    Svg: require('@site/static/img/absorbed.svg').default,
     description: (
       <>
-         I can adapt to new software, tools, and platforms quickly.
+         I enjoy learning products in-depth and writing to help others. I can adapt to new software, tools, and platforms quickly.
       </>
     ),
   },
-  {
-    title: 'User-centric',
-    Svg: require('@site/static/img/select.svg').default,
-    description: (
-      <>
-        I am passionate about providing user-centric documentation through understanding users' needs.
-      </>
-    ),
-  },
+ 
 ];
 
 function Feature({title, Svg, description}: FeatureItem) {
