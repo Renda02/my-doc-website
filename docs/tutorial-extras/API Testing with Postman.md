@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Tutorial-API-Testing-with-Postman
 
 API stands for Application Programming Interface, which allows two applications to communicate. Think of APIs as a bridge between applications.
